@@ -1,9 +1,9 @@
 <div align="center">
 
-#  Hi, I'm Ahmed Adel ElSawy
+# 👋 Hi, I'm Ahmed Adel ElSawy
 
 ### **AI/ML & Data Science Engineer • Software & Systems Developer • Cybersecurity Enthusiast**
- **Alexandria, Egypt** *(Open to Alexandria/Cairo Hybrid, Global Remote & Visa-Sponsored Relocation)*
+📍 **Alexandria, Egypt** *(Open to Alexandria/Cairo Hybrid, Global Remote & Visa-Sponsored Relocation)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_ElSawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsawy-582222393/)
 [![Email](https://img.shields.io/badge/Email-ahmed.a.elsawy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.a.elsawy@gmail.com)
@@ -13,18 +13,18 @@
 
 ---
 
-##  About Me
+## 🚀 About Me
 
--  **Senior Data Science & Artificial Intelligence Student** at **Alexandria National University** *(Cumulative Standing: Very Good | Expected Graduation: Jun 2027)*.
--  **30+ End-to-End Engineering Projects** spanning **Autonomous Multi-Agent Graph RAG**, **Streaming Fraud Detection with Drift Guard**, **Two-Stage Recommender Systems**, **Quantum-Hybrid Portfolio Optimization**, and **Computer Vision**.
--  **Technical Internship Experience**:
+- 🎓 **Senior Data Science & Artificial Intelligence Student** at **Alexandria National University** *(Cumulative Standing: Very Good | Expected Graduation: Jun 2027)*.
+- 🧠 **30+ End-to-End Engineering Projects** spanning **Autonomous Multi-Agent Graph RAG**, **Streaming Fraud Detection with Drift Guard**, **Two-Stage Recommender Systems**, **Quantum-Hybrid Portfolio Optimization**, and **Computer Vision**.
+- 🛡️ **Technical Internship Experience**:
   - **Malware Analysis Intern @ STRA-City** — Analyzed malicious software samples, identified system vulnerabilities, and supported threat detection protocols.
   - **Trainee Intern @ AEDC** — Completed core engineering systems and operational workflow training.
--  **IBM Certified Professional (Coursera)** across *Machine Learning with Python*, *Deep Learning with Keras & TensorFlow*, and *Neural Networks with PyTorch*.
+- 📜 **IBM Certified Professional (Coursera)** across *Machine Learning with Python*, *Deep Learning with Keras & TensorFlow*, and *Neural Networks with PyTorch*.
 
 ---
 
-## Core Technical Stack
+## 🛠️ Core Technical Stack
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
@@ -35,22 +35,29 @@
 
 ---
 
-##  Featured Engineering Repositories
+## 🌟 Featured Engineering Repositories
 
 | Project | Domain | Key Highlights |
 | :--- | :--- | :--- |
-|  [**Autonomous-Multi-Agent-Graph-RAG**](https://github.com/Sawy05/Autonomous-Multi-Agent-Graph-RAG) | `GenAI` • `Multi-Agent` • `Graph-RAG` | Autonomous multi-agent orchestration over knowledge graphs for high-precision retrieval and complex LLM reasoning. |
-|  [**Streaming-Fraud-Engine-Drift-Guard**](https://github.com/Sawy05/Streaming-Fraud-Engine-Drift-Guard) | `MLOps` • `FinTech` • `Anomaly Detection` | Real-time credit card & transaction fraud classification pipeline with automated data/concept drift detection. |
-|  [**Two-Stage-Recommender-Engine**](https://github.com/Sawy05/Two-Stage-Recommender-Engine) | `RecSys` • `Deep Learning` | Production-style two-stage candidate generation and deep ranking architecture in Python. |
-|  [**Quantum-hybrid-portfolio-engine**](https://github.com/Sawy05/Quantum-hybrid-portfolio-engine) | `Quant Finance` • `Quantum ML` | Hybrid quantum-classical asset allocation and financial portfolio risk optimization engine. |
-|  [**Computer-Vision-for-Road-Sign-Detection**](https://github.com/Sawy05/Computer-Vision-for-Road-Sign-Detection) | `Computer Vision` • `Autonomous Systems` | Deep learning object detection and image processing pipeline for road sign recognition and surveillance. |
-|  [**SIS_GradutionProject**](https://github.com/Sawy05/SIS_GradutionProject) | `Full-Stack` • `TypeScript` | Comprehensive Student Information System (SIS) supporting academic workflows, records, and portal management. |
-|  [**Egypt-Stocks**](https://github.com/Sawy05/Egypt-Stocks) | `Data Science` • `Time-Series` | Egyptian Exchange (EGX) market data analytics, feature engineering, and stock trend modeling. |
-|  [**Operating-Systems-Project**](https://github.com/Sawy05/Operating-Systems-Project) | `Systems` • `Algorithms` | Interactive simulator for CPU Scheduling, Memory Allocation, and Page Replacement with visual benchmarking. |
+| 🤖 [**Autonomous-Multi-Agent-Graph-RAG**](https://github.com/Sawy05/Autonomous-Multi-Agent-Graph-RAG) | `GenAI` • `Multi-Agent` • `Graph-RAG` | Autonomous multi-agent orchestration over knowledge graphs for high-precision retrieval and complex LLM reasoning. |
+| 🛡️ [**Streaming-Fraud-Engine-Drift-Guard**](https://github.com/Sawy05/Streaming-Fraud-Engine-Drift-Guard) | `MLOps` • `FinTech` • `Anomaly Detection` | Real-time credit card & transaction fraud classification pipeline with automated data/concept drift detection. |
+| 🧠 [**NLP-DeepLearning-Suite**](https://github.com/Sawy05/NLP-DeepLearning-Suite) | `NLP` • `BiLSTM` • `Word2Vec/GloVe` • `BERT` | End-to-end NLP suite: BiLSTM neural spam classifier, Word2Vec vs. GloVe manifold study (97.75% accuracy), pure-NumPy Multinomial Naive Bayes, and BERT sentiment API. |
+| 🎯 [**Two-Stage-Recommender-Engine**](https://github.com/Sawy05/Two-Stage-Recommender-Engine) | `RecSys` • `Deep Learning` | Production-style two-stage candidate generation and deep ranking architecture in Python. |
+| ⚛️ [**Quantum-hybrid-portfolio-engine**](https://github.com/Sawy05/Quantum-hybrid-portfolio-engine) | `Quant Finance` • `Quantum ML` | Hybrid quantum-classical asset allocation and financial portfolio risk optimization engine. |
+| 👁️ [**Computer-Vision-for-Road-Sign-Detection**](https://github.com/Sawy05/Computer-Vision-for-Road-Sign-Detection) | `Computer Vision` • `Autonomous Systems` | Deep learning road sign detection (YOLOv5) and motion-aware smart surveillance vehicle/pedestrian counter. |
+| 🌐 [**Socket-Email-Client-Network-Engine**](https://github.com/Sawy05/Socket-Email-Client-Network-Engine) | `Networking` • `TCP Sockets` • `SMTP/IMAP` | Secure SSL desktop email client with live TCP socket telemetry, multi-threaded concurrent TCP command server, and Wireshark packet captures. |
+| 🏡 [**California-Housing-Price-Predictor**](https://github.com/Sawy05/California-Housing-Price-Predictor) | `Data Science` • `Streamlit` • `Regression` | Interactive Streamlit real estate valuation web app with Variance Inflation Factor (VIF) multicollinearity diagnostics. |
+| 🧬 [**Biomedical-Diabetes-Multivariate-Analysis**](https://github.com/Sawy05/Biomedical-Diabetes-Multivariate-Analysis) | `Healthcare AI` • `CCA` • `SVM` | Canonical Correlation Analysis (CCA), multivariate statistics, and SVM diagnostic modeling on the Pima Indians Diabetes dataset. |
+| 📊 [**Customer-Segmentation-Unsupervised-ML**](https://github.com/Sawy05/Customer-Segmentation-Unsupervised-ML) | `Unsupervised ML` • `Clustering` • `Power BI` | Customer behavioral segmentation via Agglomerative Hierarchical Clustering, K-Medoids, Fuzzy C-Means, and Power BI retail dashboards. |
+| 🎓 [**SIS_GradutionProject**](https://github.com/Sawy05/SIS_GradutionProject) | `Full-Stack` • `TypeScript` | Comprehensive Student Information System (SIS) supporting academic workflows, records, and portal management. |
+| 📈 [**Egypt-Stocks**](https://github.com/Sawy05/Egypt-Stocks) | `Data Science` • `Time-Series` | Egyptian Exchange (EGX) market data analytics, feature engineering, and stock trend modeling. |
+| 💻 [**Operating-Systems-Project**](https://github.com/Sawy05/Operating-Systems-Project) | `Systems` • `Algorithms` | Interactive simulator for CPU Scheduling, Memory Allocation, and Page Replacement with visual benchmarking. |
+| ⚡ [**Maximum-Subarray-Algorithm**](https://github.com/Sawy05/Maximum-Subarray-Algorithm) | `Algorithms` • `Graph Theory` | Divide-and-Conquer Maximum Subarray solver and Dynamic Single-Source Shortest Path (Dynamic Dijkstra) engine. |
+| 🗓️ [**Exam-Scheduling-**](https://github.com/Sawy05/Exam-Scheduling-) | `Genetic Algorithms` • `Optimization` | Evolutionary computation conflict-free timetable optimizer and interactive schedule GUI. |
 
 ---
 
-##  Certifications & Honors
+## 📜 Certifications & Honors
 
 - **IBM Certified Professional (Coursera)**:
   - *Machine Learning with Python*
@@ -62,5 +69,5 @@
 ---
 
 <div align="center">
-  <i> Actively seeking AI/ML, Data Science, Software Engineering, and Cybersecurity/Network Internships & Junior Roles in Egypt (Alexandria/Cairo) and Abroad.</i>
+  <i>💡 Actively seeking AI/ML, Data Science, Software Engineering, and Cybersecurity/Network Internships & Junior Roles in Egypt (Alexandria/Cairo) and Abroad.</i>
 </div>
